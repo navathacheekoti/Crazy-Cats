@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/navathacheekoti/Crazy-Cats/static/css/main.41ab4a46.chunk.css",
-    "main.js": "/navathacheekoti/Crazy-Cats/static/js/main.410a99d3.chunk.js",
-    "main.js.map": "/navathacheekoti/Crazy-Cats/static/js/main.410a99d3.chunk.js.map",
-    "runtime~main.js": "/navathacheekoti/Crazy-Cats/static/js/runtime~main.451176d4.js",
-    "runtime~main.js.map": "/navathacheekoti/Crazy-Cats/static/js/runtime~main.451176d4.js.map",
-    "static/js/2.52bd83b8.chunk.js": "/navathacheekoti/Crazy-Cats/static/js/2.52bd83b8.chunk.js",
-    "static/js/2.52bd83b8.chunk.js.map": "/navathacheekoti/Crazy-Cats/static/js/2.52bd83b8.chunk.js.map",
-    "index.html": "/navathacheekoti/Crazy-Cats/index.html",
-    "precache-manifest.0950ae288b954b549ec4a21979564bb7.js": "/navathacheekoti/Crazy-Cats/precache-manifest.0950ae288b954b549ec4a21979564bb7.js",
-    "service-worker.js": "/navathacheekoti/Crazy-Cats/service-worker.js",
-    "static/css/main.41ab4a46.chunk.css.map": "/navathacheekoti/Crazy-Cats/static/css/main.41ab4a46.chunk.css.map",
-    "static/media/App.css": "/navathacheekoti/Crazy-Cats/static/media/Demo.47e943a6.otf"
+    "main.css": "/Crazy-Cats/static/css/main.3cfcdd74.chunk.css",
+    "main.js": "/Crazy-Cats/static/js/main.20bfc6a6.chunk.js",
+    "main.js.map": "/Crazy-Cats/static/js/main.20bfc6a6.chunk.js.map",
+    "runtime~main.js": "/Crazy-Cats/static/js/runtime~main.042c3401.js",
+    "runtime~main.js.map": "/Crazy-Cats/static/js/runtime~main.042c3401.js.map",
+    "static/js/2.52bd83b8.chunk.js": "/Crazy-Cats/static/js/2.52bd83b8.chunk.js",
+    "static/js/2.52bd83b8.chunk.js.map": "/Crazy-Cats/static/js/2.52bd83b8.chunk.js.map",
+    "index.html": "/Crazy-Cats/index.html",
+    "precache-manifest.348373ee934af33b2f129a5b479db522.js": "/Crazy-Cats/precache-manifest.348373ee934af33b2f129a5b479db522.js",
+    "service-worker.js": "/Crazy-Cats/service-worker.js",
+    "static/css/main.3cfcdd74.chunk.css.map": "/Crazy-Cats/static/css/main.3cfcdd74.chunk.css.map",
+    "static/media/App.css": "/Crazy-Cats/static/media/Demo.47e943a6.otf"
   }
 }
