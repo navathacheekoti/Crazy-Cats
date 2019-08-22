@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Demo';
+  /* font-style: normal; */
+  /* font-weight: normal; */
+  src: local('Demo'), url('Demo.otf');
+  }
+.App {
+  text-align: center;
+  background: #FDFC47;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #24FE41, #FDFC47);
+  }
+.Heading{
+  margin: 0 auto;
+  font-family:'Demo';
+  /* font-weight: 200; */
+  font-size: 5em;
+  /* color: rgb(240, 17, 17) */
+   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
